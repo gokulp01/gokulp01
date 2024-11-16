@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**gokulp01/gokulp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <samp><br>
+    Hi, I'm Gokul! 
+   <br>
+   I’m currently a PhD student at the University of Illinois Urbana-Champaign (UIUC)
+   <br>
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://gokulp01.github.io">website</a>
+   ·
+   <a href="https://x.com/gokulp01">X</a>
+   ·
+   <a href="mailto:gokulp2@illinois.edu">email</a>
+   ~ </samp><br><br>
+   
+</p>
+</p>
