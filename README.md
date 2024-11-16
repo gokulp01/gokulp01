@@ -13,6 +13,6 @@
    <a href="https://x.com/gokulp01">X</a>
    ·
    <a href="mailto:gokulp2@illinois.edu">email</a>
-   ~ </samp><br><br>
+   ~ </samp>
 </p>
 </p>
